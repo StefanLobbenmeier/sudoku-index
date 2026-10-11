@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-11T22:35:41Z",
+  "sources": [
+    {
+      "id": "cracking-the-cryptic",
+      "name": "Cracking the Cryptic",
+      "type": "youtube",
+      "url": "https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC-UOdK8-mIjxBQm_ot1T-Q"
+    }
+  ],
+  "entries": [
+    {
+      "id": "cracking-the-cryptic:HEJDSZGS3iw:8mn0c13uyk",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Strange Circles - and that's all!",
+      "publishedAt": "2026-10-11T22:00:21Z",
+      "puzzleUrl": "https://sudokupad.app/8mn0c13uyk",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=HEJDSZGS3iw"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "HEJDSZGS3iw"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:BknIQDO7Pog:h57xhdfzi8",
+      "sourceId": "cracking-the-cryptic",
+      "title": "All My Sudoku's Odd Digits Touch!?",
+      "publishedAt": "2026-10-11T19:30:26Z",
+      "puzzleUrl": "https://sudokupad.app/h57xhdfzi8",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=BknIQDO7Pog"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "BknIQDO7Pog"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:S7877RVBpIc:q6e8matn0v",
+      "sourceId": "cracking-the-cryptic",
+      "title": "It's a Big Day! ... for Someone",
+      "publishedAt": "2026-10-10T22:00:35Z",
+      "puzzleUrl": "https://sudokupad.app/q6e8matn0v",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=S7877RVBpIc"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "S7877RVBpIc"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:YOdiud-Tuuc:4i66q3kjp2",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Puzzle With Only One Given Digit!",
+      "publishedAt": "2026-10-10T19:30:27Z",
+      "puzzleUrl": "https://sudokupad.app/4i66q3kjp2",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=YOdiud-Tuuc"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "YOdiud-Tuuc"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:oNc5wsiGeec:86adt4oeim",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Hiding the Whispers - A new Level of Secrecy?",
+      "publishedAt": "2026-10-09T22:00:17Z",
+      "puzzleUrl": "https://sudokupad.app/86adt4oeim",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=oNc5wsiGeec"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "oNc5wsiGeec"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:NF0hF3h2uu0:nddzpwcbbp",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Short Rules & A Stunning Sudoku!",
+      "publishedAt": "2026-10-09T19:31:02Z",
+      "puzzleUrl": "https://sudokupad.app/nddzpwcbbp",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=NF0hF3h2uu0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "NF0hF3h2uu0"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:qjf1ytw0VvY:e7kgnmlm76",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Map out these Sudoku Islands!",
+      "publishedAt": "2026-10-08T22:00:11Z",
+      "puzzleUrl": "https://sudokupad.app/e7kgnmlm76",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=qjf1ytw0VvY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "qjf1ytw0VvY"
+      }
+    }
+  ]
+}
