@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:19:46Z",
+  "generatedAt": "2026-10-13T14:08:51Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,40 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:mKzm3hMF_VA:hkzobuop6w",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Soggy Foggy Blanket Puzzle",
+      "publishedAt": "2026-10-12T22:00:17Z",
+      "puzzleUrl": "https://sudokupad.app/hkzobuop6w",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=mKzm3hMF_VA"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "mKzm3hMF_VA"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:tLWSJG4PG84:fvdkiaq6vi",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The AI-Resistant Homework!!",
+      "publishedAt": "2026-10-12T19:30:23Z",
+      "puzzleUrl": "https://sudokupad.app/fvdkiaq6vi",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=tLWSJG4PG84"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "tLWSJG4PG84"
+      }
+    },
     {
       "id": "cracking-the-cryptic:HEJDSZGS3iw:8mn0c13uyk",
       "sourceId": "cracking-the-cryptic",
