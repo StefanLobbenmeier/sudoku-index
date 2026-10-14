@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T17:08:28Z",
+  "generatedAt": "2026-10-14T21:39:30Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:qEPVYJYxKDM:rejl7h2e3z",
+      "sourceId": "cracking-the-cryptic",
+      "title": "A Candidate For The Sudoku Hall Of Fame?",
+      "publishedAt": "2026-10-14T19:30:38Z",
+      "puzzleUrl": "https://sudokupad.app/rejl7h2e3z",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=qEPVYJYxKDM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "qEPVYJYxKDM"
+      }
+    },
     {
       "id": "cracking-the-cryptic:ExZgbRqlkcY:erin-toler/cross-threaded",
       "sourceId": "cracking-the-cryptic",
