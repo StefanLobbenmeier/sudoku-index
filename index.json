@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:08:51Z",
+  "generatedAt": "2026-10-14T11:49:07Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,40 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:ExZgbRqlkcY:erin-toler/cross-threaded",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Things that Parity Lines Can Do!",
+      "publishedAt": "2026-10-13T22:00:10Z",
+      "puzzleUrl": "https://sudokupad.app/erin-toler/cross-threaded",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=ExZgbRqlkcY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "ExZgbRqlkcY"
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:c_n1Xkn2G-M:rf7exik4cu",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Return Of A Sudoku Legend",
+      "publishedAt": "2026-10-13T19:30:37Z",
+      "puzzleUrl": "https://sudokupad.app/rf7exik4cu",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=c_n1Xkn2G-M"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "c_n1Xkn2G-M"
+      }
+    },
     {
       "id": "cracking-the-cryptic:mKzm3hMF_VA:hkzobuop6w",
       "sourceId": "cracking-the-cryptic",
