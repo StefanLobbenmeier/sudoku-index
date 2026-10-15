@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T16:58:40Z",
+  "generatedAt": "2026-10-15T21:21:19Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:kN9jqnTnNps:a48228snwx",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Sudoku With Chocolate And Banana?!!",
+      "publishedAt": "2026-10-15T19:30:27Z",
+      "puzzleUrl": "https://sudokupad.app/a48228snwx",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=kN9jqnTnNps"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "kN9jqnTnNps"
+      }
+    },
     {
       "id": "cracking-the-cryptic:ewqtDMBi0I8:9xd4vu47vt",
       "sourceId": "cracking-the-cryptic",
