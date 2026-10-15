@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T21:39:30Z",
+  "generatedAt": "2026-10-15T11:25:58Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,23 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:ewqtDMBi0I8:9xd4vu47vt",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Just the Fifteen Minutes?",
+      "publishedAt": "2026-10-14T22:00:28Z",
+      "puzzleUrl": "https://sudokupad.app/9xd4vu47vt",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=ewqtDMBi0I8"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "ewqtDMBi0I8"
+      }
+    },
     {
       "id": "cracking-the-cryptic:qEPVYJYxKDM:rejl7h2e3z",
       "sourceId": "cracking-the-cryptic",
