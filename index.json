@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T21:21:19Z",
+  "generatedAt": "2026-10-15T22:43:36Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,24 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:nSwsSRVwmiE:rmmuf81aes",
+      "sourceId": "cracking-the-cryptic",
+      "title": "A Remarkable and Linear Solve Path",
+      "publishedAt": "2026-10-15T22:00:13Z",
+      "puzzleUrl": "https://sudokupad.app/rmmuf81aes",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=nSwsSRVwmiE"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "nSwsSRVwmiE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nSwsSRVwmiE/hqdefault.jpg"
+      }
+    },
     {
       "id": "cracking-the-cryptic:kN9jqnTnNps:a48228snwx",
       "sourceId": "cracking-the-cryptic",
@@ -25,7 +43,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "kN9jqnTnNps"
+        "youtubeVideoId": "kN9jqnTnNps",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kN9jqnTnNps/hqdefault.jpg"
       }
     },
     {
@@ -42,7 +61,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "ewqtDMBi0I8"
+        "youtubeVideoId": "ewqtDMBi0I8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ewqtDMBi0I8/hqdefault.jpg"
       }
     },
     {
@@ -59,7 +79,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "qEPVYJYxKDM"
+        "youtubeVideoId": "qEPVYJYxKDM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/qEPVYJYxKDM/hqdefault.jpg"
       }
     },
     {
@@ -76,7 +97,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "ExZgbRqlkcY"
+        "youtubeVideoId": "ExZgbRqlkcY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ExZgbRqlkcY/hqdefault.jpg"
       }
     },
     {
@@ -93,7 +115,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "c_n1Xkn2G-M"
+        "youtubeVideoId": "c_n1Xkn2G-M",
+        "thumbnailUrl": "https://i.ytimg.com/vi/c_n1Xkn2G-M/hqdefault.jpg"
       }
     },
     {
@@ -110,7 +133,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "mKzm3hMF_VA"
+        "youtubeVideoId": "mKzm3hMF_VA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mKzm3hMF_VA/hqdefault.jpg"
       }
     },
     {
@@ -127,7 +151,8 @@
         }
       ],
       "metadata": {
-        "youtubeVideoId": "tLWSJG4PG84"
+        "youtubeVideoId": "tLWSJG4PG84",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tLWSJG4PG84/hqdefault.jpg"
       }
     },
     {
