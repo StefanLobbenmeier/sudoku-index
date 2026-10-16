@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T16:37:07Z",
+  "generatedAt": "2026-10-16T21:05:42Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -11,6 +11,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:CVgiSVKHcMY:8sl6tj1bdu",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Sudoku Goes Off the Record",
+      "publishedAt": "2026-10-16T19:35:57Z",
+      "puzzleUrl": "https://sudokupad.app/8sl6tj1bdu",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=CVgiSVKHcMY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "CVgiSVKHcMY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CVgiSVKHcMY/hqdefault.jpg",
+        "durationSeconds": 1682
+      }
+    },
     {
       "id": "cracking-the-cryptic:nSwsSRVwmiE:rmmuf81aes",
       "sourceId": "cracking-the-cryptic",
