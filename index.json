@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T21:05:42Z",
+  "generatedAt": "2026-10-16T23:15:58Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -8,9 +8,35 @@
       "type": "youtube",
       "url": "https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC-UOdK8-mIjxBQm_ot1T-Q"
+    },
+    {
+      "id": "lucians-place",
+      "name": "Lucian's Place \u00b7 Daily GAS",
+      "type": "youtube",
+      "url": "https://www.youtube.com/channel/UCbQtdQ21VY3M6xjnwA05uOg",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbQtdQ21VY3M6xjnwA05uOg"
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:S0MqPK2bl5c:fup09zll9h",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Can A Sudoku Expert Master The Game Of Go?!",
+      "publishedAt": "2026-10-16T22:15:13Z",
+      "puzzleUrl": "https://sudokupad.app/fup09zll9h",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=S0MqPK2bl5c"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "S0MqPK2bl5c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/S0MqPK2bl5c/hqdefault.jpg",
+        "durationSeconds": 5372
+      }
+    },
     {
       "id": "cracking-the-cryptic:CVgiSVKHcMY:8sl6tj1bdu",
       "sourceId": "cracking-the-cryptic",
@@ -28,6 +54,25 @@
         "youtubeVideoId": "CVgiSVKHcMY",
         "thumbnailUrl": "https://i.ytimg.com/vi/CVgiSVKHcMY/hqdefault.jpg",
         "durationSeconds": 1682
+      }
+    },
+    {
+      "id": "lucians-place:tqjBDYwXKCU:philip-newman/20261015-youve-got-a-pal-in-drome",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 15 October 2026",
+      "publishedAt": "2026-10-16T04:00:29Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261015-youve-got-a-pal-in-drome",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=tqjBDYwXKCU"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "tqjBDYwXKCU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tqjBDYwXKCU/hqdefault.jpg",
+        "durationSeconds": 1097
       }
     },
     {
@@ -69,6 +114,25 @@
       }
     },
     {
+      "id": "lucians-place:zlQ06a0cVT0:gw2gzik4iv",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 14 October 2026",
+      "publishedAt": "2026-10-15T04:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/gw2gzik4iv",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=zlQ06a0cVT0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "zlQ06a0cVT0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zlQ06a0cVT0/hqdefault.jpg",
+        "durationSeconds": 553
+      }
+    },
+    {
       "id": "cracking-the-cryptic:ewqtDMBi0I8:9xd4vu47vt",
       "sourceId": "cracking-the-cryptic",
       "title": "Just the Fifteen Minutes?",
@@ -104,6 +168,25 @@
         "youtubeVideoId": "qEPVYJYxKDM",
         "thumbnailUrl": "https://i.ytimg.com/vi/qEPVYJYxKDM/hqdefault.jpg",
         "durationSeconds": 3733
+      }
+    },
+    {
+      "id": "lucians-place:43wKuwTT2SM:7vat08rjx9",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 13 October 2026",
+      "publishedAt": "2026-10-14T04:00:34Z",
+      "puzzleUrl": "https://sudokupad.app/7vat08rjx9",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=43wKuwTT2SM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "43wKuwTT2SM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/43wKuwTT2SM/hqdefault.jpg",
+        "durationSeconds": 607
       }
     },
     {
@@ -145,6 +228,25 @@
       }
     },
     {
+      "id": "lucians-place:8oUQEDOZ2tY:philip-newman/20261012-octurnal-inversion",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 12 October 2026",
+      "publishedAt": "2026-10-13T04:00:15Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261012-octurnal-inversion",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=8oUQEDOZ2tY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "8oUQEDOZ2tY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8oUQEDOZ2tY/hqdefault.jpg",
+        "durationSeconds": 875
+      }
+    },
+    {
       "id": "cracking-the-cryptic:mKzm3hMF_VA:hkzobuop6w",
       "sourceId": "cracking-the-cryptic",
       "title": "The Soggy Foggy Blanket Puzzle",
@@ -178,6 +280,25 @@
       "metadata": {
         "youtubeVideoId": "tLWSJG4PG84",
         "thumbnailUrl": "https://i.ytimg.com/vi/tLWSJG4PG84/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "lucians-place:4-kQ1ZfNwec:meo7nfw6x5",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 11 October 2026",
+      "publishedAt": "2026-10-12T04:00:34Z",
+      "puzzleUrl": "https://sudokupad.app/meo7nfw6x5",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=4-kQ1ZfNwec"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "4-kQ1ZfNwec",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4-kQ1ZfNwec/hqdefault.jpg",
+        "durationSeconds": 543
       }
     },
     {
@@ -215,6 +336,25 @@
       }
     },
     {
+      "id": "lucians-place:sG_pKQTvvRE:0k1m4dyzji",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 10 October 2026",
+      "publishedAt": "2026-10-11T04:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/0k1m4dyzji",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=sG_pKQTvvRE"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "sG_pKQTvvRE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sG_pKQTvvRE/hqdefault.jpg",
+        "durationSeconds": 523
+      }
+    },
+    {
       "id": "cracking-the-cryptic:S7877RVBpIc:q6e8matn0v",
       "sourceId": "cracking-the-cryptic",
       "title": "It's a Big Day! ... for Someone",
@@ -246,6 +386,25 @@
       ],
       "metadata": {
         "youtubeVideoId": "YOdiud-Tuuc"
+      }
+    },
+    {
+      "id": "lucians-place:OAQhZ5DSHOE:budz6nwygl",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 9 October 2026",
+      "publishedAt": "2026-10-10T04:00:06Z",
+      "puzzleUrl": "https://sudokupad.app/budz6nwygl",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=OAQhZ5DSHOE"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "OAQhZ5DSHOE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OAQhZ5DSHOE/hqdefault.jpg",
+        "durationSeconds": 607
       }
     },
     {
@@ -283,6 +442,25 @@
       }
     },
     {
+      "id": "lucians-place:ewdnyTcalX0:6xiujfx2qt",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 8 October 2026",
+      "publishedAt": "2026-10-09T04:00:34Z",
+      "puzzleUrl": "https://sudokupad.app/6xiujfx2qt",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=ewdnyTcalX0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "ewdnyTcalX0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ewdnyTcalX0/hqdefault.jpg",
+        "durationSeconds": 678
+      }
+    },
+    {
       "id": "cracking-the-cryptic:qjf1ytw0VvY:e7kgnmlm76",
       "sourceId": "cracking-the-cryptic",
       "title": "Map out these Sudoku Islands!",
@@ -297,6 +475,139 @@
       ],
       "metadata": {
         "youtubeVideoId": "qjf1ytw0VvY"
+      }
+    },
+    {
+      "id": "lucians-place:vXPMjEkHCUw:q30fttqzr2",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 7 October 2026",
+      "publishedAt": "2026-10-08T04:00:34Z",
+      "puzzleUrl": "https://sudokupad.app/q30fttqzr2",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=vXPMjEkHCUw"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "vXPMjEkHCUw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vXPMjEkHCUw/hqdefault.jpg",
+        "durationSeconds": 638
+      }
+    },
+    {
+      "id": "lucians-place:9lGZPJ11J60:philip-newman/20261006-octipetal",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 6 October 2026",
+      "publishedAt": "2026-10-07T04:00:14Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261006-octipetal",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=9lGZPJ11J60"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "9lGZPJ11J60",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9lGZPJ11J60/hqdefault.jpg",
+        "durationSeconds": 582
+      }
+    },
+    {
+      "id": "lucians-place:BmVrOF4zuHM:4ae39glpu5",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 5 October 2026",
+      "publishedAt": "2026-10-06T04:00:36Z",
+      "puzzleUrl": "https://sudokupad.app/4ae39glpu5",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=BmVrOF4zuHM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "BmVrOF4zuHM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/BmVrOF4zuHM/hqdefault.jpg",
+        "durationSeconds": 571
+      }
+    },
+    {
+      "id": "lucians-place:2v6t8--bgcA:ndegi9tvp0",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 4 October 2026",
+      "publishedAt": "2026-10-05T04:00:07Z",
+      "puzzleUrl": "https://sudokupad.app/ndegi9tvp0",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=2v6t8--bgcA"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "2v6t8--bgcA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2v6t8--bgcA/hqdefault.jpg",
+        "durationSeconds": 616
+      }
+    },
+    {
+      "id": "lucians-place:7l7c0gmpDK8:xbx5qx3hp5",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 3 October 2026",
+      "publishedAt": "2026-10-04T04:00:22Z",
+      "puzzleUrl": "https://sudokupad.app/xbx5qx3hp5",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=7l7c0gmpDK8"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "7l7c0gmpDK8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/7l7c0gmpDK8/hqdefault.jpg",
+        "durationSeconds": 771
+      }
+    },
+    {
+      "id": "lucians-place:mJsdFJ70Nm8:5ko3xr8gv2",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 2 October 2026",
+      "publishedAt": "2026-10-03T04:00:24Z",
+      "puzzleUrl": "https://sudokupad.app/5ko3xr8gv2",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=mJsdFJ70Nm8"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "mJsdFJ70Nm8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mJsdFJ70Nm8/hqdefault.jpg",
+        "durationSeconds": 365
+      }
+    },
+    {
+      "id": "lucians-place:drjwErLaT9I:4tthhmyfcj",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 1 October 2026",
+      "publishedAt": "2026-10-02T04:00:29Z",
+      "puzzleUrl": "https://sudokupad.app/4tthhmyfcj",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=drjwErLaT9I"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "drjwErLaT9I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/drjwErLaT9I/hqdefault.jpg",
+        "durationSeconds": 723
       }
     }
   ]
