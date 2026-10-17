@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T23:19:00Z",
+  "generatedAt": "2026-10-17T10:40:55Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:N0QxMGDrFRg:c2jsb4l7dg",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 16 October 2026",
+      "publishedAt": "2026-10-17T04:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/c2jsb4l7dg",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=N0QxMGDrFRg"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "N0QxMGDrFRg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/N0QxMGDrFRg/hqdefault.jpg",
+        "durationSeconds": 499
+      }
+    },
     {
       "id": "cracking-the-cryptic:S0MqPK2bl5c:fup09zll9h",
       "sourceId": "cracking-the-cryptic",
