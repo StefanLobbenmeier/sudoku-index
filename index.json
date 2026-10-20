@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T22:20:03Z",
+  "generatedAt": "2026-10-20T11:33:01Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -19,11 +19,49 @@
   ],
   "entries": [
     {
+      "id": "lucians-place:zYNSn2LCNGo:ozeo1g4kaq",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 19 October 2026",
+      "publishedAt": "2026-10-20T04:00:08Z",
+      "puzzleUrl": "https://sudokupad.app/ozeo1g4kaq",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=zYNSn2LCNGo"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "zYNSn2LCNGo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zYNSn2LCNGo/hqdefault.jpg",
+        "durationSeconds": 547
+      }
+    },
+    {
       "id": "cracking-the-cryptic:LSEV5VBeiJU:jt3gqelibt",
       "sourceId": "cracking-the-cryptic",
       "title": "Sudoku in the Community Centre",
       "publishedAt": "2026-10-19T22:00:28Z",
       "puzzleUrl": "https://sudokupad.app/jt3gqelibt",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=LSEV5VBeiJU"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "LSEV5VBeiJU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/LSEV5VBeiJU/hqdefault.jpg",
+        "durationSeconds": 1855
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:LSEV5VBeiJU:dcnwx0ynsi",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Sudoku in the Community Centre",
+      "publishedAt": "2026-10-19T22:00:28Z",
+      "puzzleUrl": "https://sudokupad.app/dcnwx0ynsi",
       "links": [
         {
           "role": "walkthrough",
