@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T17:04:31Z",
+  "generatedAt": "2026-10-23T21:23:03Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:fRF8qGhV9LY:2vv3bkl623",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Sudoku With Only 3 Given Numbers?",
+      "publishedAt": "2026-10-23T19:30:28Z",
+      "puzzleUrl": "https://sudokupad.app/2vv3bkl623",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=fRF8qGhV9LY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "fRF8qGhV9LY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fRF8qGhV9LY/hqdefault.jpg",
+        "durationSeconds": 1973
+      }
+    },
     {
       "id": "lucians-place:bQ3PB2oFBi8:jaqsmyhvkk",
       "sourceId": "lucians-place",
