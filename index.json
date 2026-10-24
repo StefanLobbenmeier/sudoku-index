@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T21:23:03Z",
+  "generatedAt": "2026-10-24T04:33:41Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:B6K-jsbf2gI:dzjdg60jdb",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 23 October 2026",
+      "publishedAt": "2026-10-24T04:00:03Z",
+      "puzzleUrl": "https://sudokupad.app/dzjdg60jdb",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=B6K-jsbf2gI"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "B6K-jsbf2gI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B6K-jsbf2gI/hqdefault.jpg",
+        "durationSeconds": 613
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:VMpnMdWWIzY:fp9mbsltpm",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Green Bean Casserole",
+      "publishedAt": "2026-10-23T22:00:31Z",
+      "puzzleUrl": "https://sudokupad.app/fp9mbsltpm",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=VMpnMdWWIzY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "VMpnMdWWIzY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/VMpnMdWWIzY/hqdefault.jpg",
+        "durationSeconds": 1216
+      }
+    },
     {
       "id": "cracking-the-cryptic:fRF8qGhV9LY:2vv3bkl623",
       "sourceId": "cracking-the-cryptic",
