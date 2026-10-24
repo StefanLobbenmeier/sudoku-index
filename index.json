@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T15:55:19Z",
+  "generatedAt": "2026-10-24T20:46:31Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:x2g0KQHVDPs:jni23ia3hh",
+      "sourceId": "cracking-the-cryptic",
+      "title": "\"The Greatest\" Fog Sudoku!",
+      "publishedAt": "2026-10-24T19:30:18Z",
+      "puzzleUrl": "https://sudokupad.app/jni23ia3hh",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=x2g0KQHVDPs"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "x2g0KQHVDPs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/x2g0KQHVDPs/hqdefault.jpg",
+        "durationSeconds": 3498
+      }
+    },
     {
       "id": "lucians-place:B6K-jsbf2gI:dzjdg60jdb",
       "sourceId": "lucians-place",
