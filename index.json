@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T20:46:31Z",
+  "generatedAt": "2026-10-25T04:38:02Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:cKSC_7piYI0:a5cplywtyc",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 24 October 2026",
+      "publishedAt": "2026-10-25T04:00:22Z",
+      "puzzleUrl": "https://sudokupad.app/a5cplywtyc",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=cKSC_7piYI0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "cKSC_7piYI0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cKSC_7piYI0/hqdefault.jpg",
+        "durationSeconds": 812
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:rsAej8g0aaI:aojv6vyqzk",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Some Special Lines - in London?",
+      "publishedAt": "2026-10-24T22:00:15Z",
+      "puzzleUrl": "https://sudokupad.app/aojv6vyqzk",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=rsAej8g0aaI"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "rsAej8g0aaI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rsAej8g0aaI/hqdefault.jpg",
+        "durationSeconds": 2075
+      }
+    },
     {
       "id": "cracking-the-cryptic:x2g0KQHVDPs:jni23ia3hh",
       "sourceId": "cracking-the-cryptic",
