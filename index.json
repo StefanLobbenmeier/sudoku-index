@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T16:14:46Z",
+  "generatedAt": "2026-10-25T20:48:54Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:C5RIYXRxOmc:7cwlm6e7a7",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Return Of One Of The All-Time Great Sudoku Makers",
+      "publishedAt": "2026-10-25T20:30:35Z",
+      "puzzleUrl": "https://sudokupad.app/7cwlm6e7a7",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=C5RIYXRxOmc"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "C5RIYXRxOmc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/C5RIYXRxOmc/hqdefault.jpg",
+        "durationSeconds": 3689
+      }
+    },
     {
       "id": "lucians-place:cKSC_7piYI0:a5cplywtyc",
       "sourceId": "lucians-place",
