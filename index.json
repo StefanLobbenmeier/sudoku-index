@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T20:48:54Z",
+  "generatedAt": "2026-10-26T04:43:43Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:gCyZQtijRNc:p1qvgbh40e",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 25 October 2026",
+      "publishedAt": "2026-10-26T04:00:04Z",
+      "puzzleUrl": "https://sudokupad.app/p1qvgbh40e",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=gCyZQtijRNc"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "gCyZQtijRNc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gCyZQtijRNc/hqdefault.jpg",
+        "durationSeconds": 468
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:veA2RDHHE_U:0xz9ur1emo",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Getting Stuck in the Middle",
+      "publishedAt": "2026-10-25T23:00:38Z",
+      "puzzleUrl": "https://sudokupad.app/0xz9ur1emo",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=veA2RDHHE_U"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "veA2RDHHE_U",
+        "thumbnailUrl": "https://i.ytimg.com/vi/veA2RDHHE_U/hqdefault.jpg",
+        "durationSeconds": 2640
+      }
+    },
     {
       "id": "cracking-the-cryptic:C5RIYXRxOmc:7cwlm6e7a7",
       "sourceId": "cracking-the-cryptic",
