@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:15Z",
+  "generatedAt": "2026-10-28T22:33:02Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:G99RDGZEhxM:wsawi47iom",
+      "sourceId": "cracking-the-cryptic",
+      "title": "I Can't See All the Lines!",
+      "publishedAt": "2026-10-28T22:00:07Z",
+      "puzzleUrl": "https://sudokupad.app/wsawi47iom",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=G99RDGZEhxM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "G99RDGZEhxM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/G99RDGZEhxM/hqdefault.jpg",
+        "durationSeconds": 2449
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:cmiIJ37oF5I:pn630t41aj",
+      "sourceId": "cracking-the-cryptic",
+      "title": "One Tough Cookie: A \"Cat Run\" Puzzle!!",
+      "publishedAt": "2026-10-28T20:30:25Z",
+      "puzzleUrl": "https://sudokupad.app/pn630t41aj",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=cmiIJ37oF5I"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "cmiIJ37oF5I",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cmiIJ37oF5I/hqdefault.jpg",
+        "durationSeconds": 6664
+      }
+    },
     {
       "id": "lucians-place:XdOf01d59D4:philip-newman/20261027-curly-brackets",
       "sourceId": "lucians-place",
