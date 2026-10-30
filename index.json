@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:51:07Z",
+  "generatedAt": "2026-10-30T22:16:58Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:Fs8MSl6A9vo:25vrx4x793",
+      "sourceId": "cracking-the-cryptic",
+      "title": "A Sudoku With Only Three Given Digits (Again!)",
+      "publishedAt": "2026-10-30T20:30:39Z",
+      "puzzleUrl": "https://sudokupad.app/25vrx4x793",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=Fs8MSl6A9vo"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "Fs8MSl6A9vo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Fs8MSl6A9vo/hqdefault.jpg",
+        "durationSeconds": 4162
+      }
+    },
     {
       "id": "lucians-place:J12gR3BwRq4:bd8xg8opbj",
       "sourceId": "lucians-place",
