@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T05:37:49Z",
+  "generatedAt": "2026-10-31T12:23:55Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -43,6 +43,25 @@
       "title": "A Brilliant Sudoku/Puzzle Mash-up",
       "publishedAt": "2026-10-30T23:00:26Z",
       "puzzleUrl": "https://sudokupad.app/olfferkl14",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=wSl5WenkJbU"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "wSl5WenkJbU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/wSl5WenkJbU/hqdefault.jpg",
+        "durationSeconds": 3293
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:wSl5WenkJbU:jov93r0b6g",
+      "sourceId": "cracking-the-cryptic",
+      "title": "A Brilliant Sudoku/Puzzle Mash-up",
+      "publishedAt": "2026-10-30T23:00:26Z",
+      "puzzleUrl": "https://sudokupad.app/jov93r0b6g",
       "links": [
         {
           "role": "walkthrough",
