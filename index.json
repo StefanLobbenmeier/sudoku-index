@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:23:55Z",
+  "generatedAt": "2026-10-31T21:31:34Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:JlGCTO3p7A0:t35slg1dee",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Pick The Plumpest Sudoku Pumpkin!",
+      "publishedAt": "2026-10-31T20:30:32Z",
+      "puzzleUrl": "https://sudokupad.app/t35slg1dee",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=JlGCTO3p7A0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "JlGCTO3p7A0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JlGCTO3p7A0/hqdefault.jpg",
+        "durationSeconds": 4616
+      }
+    },
     {
       "id": "lucians-place:RGx5cO6eaic:philip-newman/20261030-lse-majest",
       "sourceId": "lucians-place",
