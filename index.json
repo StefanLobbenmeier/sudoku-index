@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T23:38:46Z",
+  "generatedAt": "2026-11-05T06:42:22Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:O2S7H6g0tdY:27qkawh69k",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 4 November 2026",
+      "publishedAt": "2026-11-05T05:00:08Z",
+      "puzzleUrl": "https://sudokupad.app/27qkawh69k",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=O2S7H6g0tdY"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "O2S7H6g0tdY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/O2S7H6g0tdY/hqdefault.jpg",
+        "durationSeconds": 398
+      }
+    },
     {
       "id": "cracking-the-cryptic:u6E39nrPUog:936e0i5ytb",
       "sourceId": "cracking-the-cryptic",
