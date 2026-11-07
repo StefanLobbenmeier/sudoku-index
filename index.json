@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T19:22:32Z",
+  "generatedAt": "2026-11-07T05:55:31Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:A2DZ0mefxBI:038cxrya6k",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 6 November 2026",
+      "publishedAt": "2026-11-07T05:00:07Z",
+      "puzzleUrl": "https://sudokupad.app/038cxrya6k",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=A2DZ0mefxBI"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "A2DZ0mefxBI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/A2DZ0mefxBI/hqdefault.jpg",
+        "durationSeconds": 893
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:2dxalq_8az0:8gmuzm89hx",
+      "sourceId": "cracking-the-cryptic",
+      "title": "What a Quincunx is - Explained",
+      "publishedAt": "2026-11-07T00:04:06Z",
+      "puzzleUrl": "https://sudokupad.app/8gmuzm89hx",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=2dxalq_8az0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "2dxalq_8az0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2dxalq_8az0/hqdefault.jpg",
+        "durationSeconds": 1283
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:-dHPY7QpYZA:41m7apa6cf",
+      "sourceId": "cracking-the-cryptic",
+      "title": "This Sudoku Will Raise Your Eyebrows!",
+      "publishedAt": "2026-11-06T20:30:17Z",
+      "puzzleUrl": "https://sudokupad.app/41m7apa6cf",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=-dHPY7QpYZA"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "-dHPY7QpYZA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-dHPY7QpYZA/hqdefault.jpg",
+        "durationSeconds": 3590
+      }
+    },
     {
       "id": "lucians-place:eCzrba3skFk:0tdkbjtlgm",
       "sourceId": "lucians-place",
