@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:57:03Z",
+  "generatedAt": "2026-11-07T21:47:12Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:_7vUNhgHMvI:lobbo5pxv4",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Sudoku Tells The Greatest Lies",
+      "publishedAt": "2026-11-07T20:30:15Z",
+      "puzzleUrl": "https://sudokupad.app/lobbo5pxv4",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=_7vUNhgHMvI"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "_7vUNhgHMvI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/_7vUNhgHMvI/hqdefault.jpg",
+        "durationSeconds": 6407
+      }
+    },
     {
       "id": "lucians-place:A2DZ0mefxBI:038cxrya6k",
       "sourceId": "lucians-place",
