@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T22:01:07Z",
+  "generatedAt": "2026-11-09T06:21:39Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:cOgNnYe32EM:arnsm8wysb",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 8 November 2026",
+      "publishedAt": "2026-11-09T05:00:35Z",
+      "puzzleUrl": "https://sudokupad.app/arnsm8wysb",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=cOgNnYe32EM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "cOgNnYe32EM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cOgNnYe32EM/hqdefault.jpg",
+        "durationSeconds": 570
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:cfww7T7b6pw:st10obdov4",
+      "sourceId": "cracking-the-cryptic",
+      "title": "A Foggy Puzzle - but not Fog of War",
+      "publishedAt": "2026-11-08T23:00:21Z",
+      "puzzleUrl": "https://sudokupad.app/st10obdov4",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=cfww7T7b6pw"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "cfww7T7b6pw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/cfww7T7b6pw/hqdefault.jpg",
+        "durationSeconds": 2547
+      }
+    },
     {
       "id": "cracking-the-cryptic:ppw8JnNcpTw:mvk3xv23yc",
       "sourceId": "cracking-the-cryptic",
