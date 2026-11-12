@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T00:39:37Z",
+  "generatedAt": "2026-11-12T15:10:25Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:vv7sL3ENMIw:philip-newman/20261111-elevenses",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 11 November 2026",
+      "publishedAt": "2026-11-12T05:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261111-elevenses",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=vv7sL3ENMIw"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "vv7sL3ENMIw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vv7sL3ENMIw/hqdefault.jpg",
+        "durationSeconds": 588
+      }
+    },
     {
       "id": "cracking-the-cryptic:fE7lEtG-L_8:yimdu5tbmu",
       "sourceId": "cracking-the-cryptic",
