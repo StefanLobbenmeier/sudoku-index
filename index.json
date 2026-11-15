@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T22:21:26Z",
+  "generatedAt": "2026-11-15T06:25:32Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:2iuTTurVKy0:tfk5cgsl3q",
+      "sourceId": "cracking-the-cryptic",
+      "title": "That's ME in the Corner!",
+      "publishedAt": "2026-11-14T23:00:25Z",
+      "puzzleUrl": "https://sudokupad.app/tfk5cgsl3q",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=2iuTTurVKy0"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "2iuTTurVKy0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/2iuTTurVKy0/hqdefault.jpg",
+        "durationSeconds": 2366
+      }
+    },
     {
       "id": "cracking-the-cryptic:iTH7WS5A4xw:g372z0dhli",
       "sourceId": "cracking-the-cryptic",
