@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T18:49:19Z",
+  "generatedAt": "2026-11-16T06:24:00Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:MtOQ_z1KiPs:c1tx56glgj",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 15 November 2026",
+      "publishedAt": "2026-11-16T06:00:02Z",
+      "puzzleUrl": "https://sudokupad.app/c1tx56glgj",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=MtOQ_z1KiPs"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "MtOQ_z1KiPs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/MtOQ_z1KiPs/hqdefault.jpg",
+        "durationSeconds": 765
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:TkXy7kna-M8:1xuvxocdoi",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Is this one of the Greatest Loops?",
+      "publishedAt": "2026-11-15T23:00:13Z",
+      "puzzleUrl": "https://sudokupad.app/1xuvxocdoi",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=TkXy7kna-M8"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "TkXy7kna-M8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TkXy7kna-M8/hqdefault.jpg",
+        "durationSeconds": 1544
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:-FBs5D3GiII:yo9wdwnp03",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Phistomefel Warned Me NOT To Do This Sudoku Live!!",
+      "publishedAt": "2026-11-15T20:30:36Z",
+      "puzzleUrl": "https://sudokupad.app/yo9wdwnp03",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=-FBs5D3GiII"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "-FBs5D3GiII",
+        "thumbnailUrl": "https://i.ytimg.com/vi/-FBs5D3GiII/hqdefault.jpg",
+        "durationSeconds": 5570
+      }
+    },
     {
       "id": "lucians-place:V2f6mOQVzzE:philip-newman/20261114-falling-leaves",
       "sourceId": "lucians-place",
