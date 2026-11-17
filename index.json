@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T21:58:54Z",
+  "generatedAt": "2026-11-17T07:52:02Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,44 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:ROmx3OgEkzQ:rq20w7klyc",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 16 November 2026",
+      "publishedAt": "2026-11-17T05:00:22Z",
+      "puzzleUrl": "https://sudokupad.app/rq20w7klyc",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=ROmx3OgEkzQ"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "ROmx3OgEkzQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ROmx3OgEkzQ/hqdefault.jpg",
+        "durationSeconds": 615
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:Irh0eOG5C0A:55em9pvc2c",
+      "sourceId": "cracking-the-cryptic",
+      "title": "It's the Jumble in the Jungle!",
+      "publishedAt": "2026-11-16T23:00:02Z",
+      "puzzleUrl": "https://sudokupad.app/55em9pvc2c",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=Irh0eOG5C0A"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "Irh0eOG5C0A",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Irh0eOG5C0A/hqdefault.jpg",
+        "durationSeconds": 3937
+      }
+    },
     {
       "id": "cracking-the-cryptic:QKv9jdTNfN8:1emqz1uqso",
       "sourceId": "cracking-the-cryptic",
