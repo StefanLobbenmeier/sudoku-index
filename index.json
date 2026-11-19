@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T20:28:30Z",
+  "generatedAt": "2026-11-19T07:21:43Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:kEtZ1XW_hcs:wy0ll2gh3x",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 18 November 2026",
+      "publishedAt": "2026-11-19T05:00:14Z",
+      "puzzleUrl": "https://sudokupad.app/wy0ll2gh3x",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=kEtZ1XW_hcs"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "kEtZ1XW_hcs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/kEtZ1XW_hcs/hqdefault.jpg",
+        "durationSeconds": 400
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:UUXu4Rg2U6E:05toqchwta",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Steer my Crazy Little Robot",
+      "publishedAt": "2026-11-18T23:00:04Z",
+      "puzzleUrl": "https://sudokupad.app/05toqchwta",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=UUXu4Rg2U6E"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "UUXu4Rg2U6E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/UUXu4Rg2U6E/hqdefault.jpg",
+        "durationSeconds": 3453
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:js9dWMaJtzk:wtfa2dqnkz",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The \"Single Line\" Miracle Sudoku",
+      "publishedAt": "2026-11-18T20:30:21Z",
+      "puzzleUrl": "https://sudokupad.app/wtfa2dqnkz",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=js9dWMaJtzk"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "js9dWMaJtzk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/js9dWMaJtzk/hqdefault.jpg",
+        "durationSeconds": 2921
+      }
+    },
     {
       "id": "cracking-the-cryptic:9aUog-R-Hwg:james-sinclair/10k",
       "sourceId": "cracking-the-cryptic",
