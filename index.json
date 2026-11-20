@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:32:20Z",
+  "generatedAt": "2026-11-20T07:10:34Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:y2XyL5HPpPk:ceflzir15e",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 19 November 2026",
+      "publishedAt": "2026-11-20T05:00:07Z",
+      "puzzleUrl": "https://sudokupad.app/ceflzir15e",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=y2XyL5HPpPk"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "y2XyL5HPpPk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/y2XyL5HPpPk/hqdefault.jpg",
+        "durationSeconds": 693
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:AreE1plfGYQ:g0gb6ifc1r",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Balanced Thinking",
+      "publishedAt": "2026-11-19T23:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/g0gb6ifc1r",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=AreE1plfGYQ"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "AreE1plfGYQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AreE1plfGYQ/hqdefault.jpg",
+        "durationSeconds": 2784
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:OiN9ckp_Yio:9afnh3qgsf",
+      "sourceId": "cracking-the-cryptic",
+      "title": "My Sudoku Has Short Thermometers!?",
+      "publishedAt": "2026-11-19T20:30:07Z",
+      "puzzleUrl": "https://sudokupad.app/9afnh3qgsf",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=OiN9ckp_Yio"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "OiN9ckp_Yio",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OiN9ckp_Yio/hqdefault.jpg",
+        "durationSeconds": 2715
+      }
+    },
     {
       "id": "lucians-place:kEtZ1XW_hcs:wy0ll2gh3x",
       "sourceId": "lucians-place",
