@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T20:12:39Z",
+  "generatedAt": "2026-11-21T07:02:09Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:WgFywyeW9k8:philip-newman/20261120-reunion-tower",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 20 November 2026",
+      "publishedAt": "2026-11-21T05:00:34Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261120-reunion-tower",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=WgFywyeW9k8"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "WgFywyeW9k8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WgFywyeW9k8/hqdefault.jpg",
+        "durationSeconds": 735
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:xFvwpuUhWRo:3o8j3x2kzc",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Thirteens are not Unlucky",
+      "publishedAt": "2026-11-20T23:00:23Z",
+      "puzzleUrl": "https://sudokupad.app/3o8j3x2kzc",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=xFvwpuUhWRo"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "xFvwpuUhWRo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xFvwpuUhWRo/hqdefault.jpg",
+        "durationSeconds": 3252
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:JYoaJ74y6lc:xei72tt12o",
+      "sourceId": "cracking-the-cryptic",
+      "title": "The Sudoku With Just 4 Given Digits?!!",
+      "publishedAt": "2026-11-20T20:30:19Z",
+      "puzzleUrl": "https://sudokupad.app/xei72tt12o",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=JYoaJ74y6lc"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "JYoaJ74y6lc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JYoaJ74y6lc/hqdefault.jpg",
+        "durationSeconds": 2718
+      }
+    },
     {
       "id": "lucians-place:y2XyL5HPpPk:ceflzir15e",
       "sourceId": "lucians-place",
