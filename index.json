@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T19:35:16Z",
+  "generatedAt": "2026-11-23T07:32:52Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,63 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:tAPFBHE0lt4:4dng3nossx",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 22 November 2026",
+      "publishedAt": "2026-11-23T05:00:03Z",
+      "puzzleUrl": "https://sudokupad.app/4dng3nossx",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=tAPFBHE0lt4"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "tAPFBHE0lt4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/tAPFBHE0lt4/hqdefault.jpg",
+        "durationSeconds": 768
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:fB0fiH54QbM:r7lkfjabab",
+      "sourceId": "cracking-the-cryptic",
+      "title": "Gotta Sum 'em All!",
+      "publishedAt": "2026-11-22T23:00:33Z",
+      "puzzleUrl": "https://sudokupad.app/r7lkfjabab",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=fB0fiH54QbM"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "fB0fiH54QbM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fB0fiH54QbM/hqdefault.jpg",
+        "durationSeconds": 1007
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:jqpkRPjR7zE:bnynpr8379",
+      "sourceId": "cracking-the-cryptic",
+      "title": "100%-Rated Sudoku: The Mystery Islands",
+      "publishedAt": "2026-11-22T20:30:29Z",
+      "puzzleUrl": "https://sudokupad.app/bnynpr8379",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=jqpkRPjR7zE"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "jqpkRPjR7zE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jqpkRPjR7zE/hqdefault.jpg",
+        "durationSeconds": 3361
+      }
+    },
     {
       "id": "cracking-the-cryptic:meg_-y9c_A0:7v57yvn5vf",
       "sourceId": "cracking-the-cryptic",
