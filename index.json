@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T23:51:31Z",
+  "generatedAt": "2026-11-24T09:51:06Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "lucians-place:8Vt6pUnfazA:philip-newman/20261123-fibonacci-sequency",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 23 November 2026",
+      "publishedAt": "2026-11-24T05:00:19Z",
+      "puzzleUrl": "https://sudokupad.app/philip-newman/20261123-fibonacci-sequency",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=8Vt6pUnfazA"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "8Vt6pUnfazA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8Vt6pUnfazA/hqdefault.jpg",
+        "durationSeconds": 670
+      }
+    },
     {
       "id": "cracking-the-cryptic:Unf4a23zaTQ:mdp/going-up",
       "sourceId": "cracking-the-cryptic",
