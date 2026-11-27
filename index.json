@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T08:24:53Z",
+  "generatedAt": "2026-11-27T21:14:41Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -18,6 +18,25 @@
     }
   ],
   "entries": [
+    {
+      "id": "cracking-the-cryptic:ZlbhJ6HlHUU:ophfxheq32",
+      "sourceId": "cracking-the-cryptic",
+      "title": "nocked",
+      "publishedAt": "2026-11-27T20:30:01Z",
+      "puzzleUrl": "https://sudokupad.app/ophfxheq32",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=ZlbhJ6HlHUU"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "ZlbhJ6HlHUU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZlbhJ6HlHUU/hqdefault.jpg",
+        "durationSeconds": 1945
+      }
+    },
     {
       "id": "lucians-place:CL8b9aXrCZk:philip-newman/20261126-pumpkin-pi",
       "sourceId": "lucians-place",
