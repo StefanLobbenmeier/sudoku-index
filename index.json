@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T21:14:41Z",
+  "generatedAt": "2026-11-28T07:44:06Z",
   "sources": [
     {
       "id": "cracking-the-cryptic",
@@ -19,9 +19,47 @@
   ],
   "entries": [
     {
+      "id": "lucians-place:nIYXT-5BRdo:jy862st4as",
+      "sourceId": "lucians-place",
+      "title": "Daily Sudoku - 27 November 2026",
+      "publishedAt": "2026-11-28T05:00:29Z",
+      "puzzleUrl": "https://sudokupad.app/jy862st4as",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=nIYXT-5BRdo"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "nIYXT-5BRdo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nIYXT-5BRdo/hqdefault.jpg",
+        "durationSeconds": 636
+      }
+    },
+    {
+      "id": "cracking-the-cryptic:jg55SiG7lmk:w61atpjn5p",
+      "sourceId": "cracking-the-cryptic",
+      "title": "No Harm in a Little Sandwich Sometimes",
+      "publishedAt": "2026-11-27T23:00:20Z",
+      "puzzleUrl": "https://sudokupad.app/w61atpjn5p",
+      "links": [
+        {
+          "role": "walkthrough",
+          "mediaType": "video",
+          "url": "https://www.youtube.com/watch?v=jg55SiG7lmk"
+        }
+      ],
+      "metadata": {
+        "youtubeVideoId": "jg55SiG7lmk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jg55SiG7lmk/hqdefault.jpg",
+        "durationSeconds": 1545
+      }
+    },
+    {
       "id": "cracking-the-cryptic:ZlbhJ6HlHUU:ophfxheq32",
       "sourceId": "cracking-the-cryptic",
-      "title": "nocked",
+      "title": "There may have been a Simpler Way ...",
       "publishedAt": "2026-11-27T20:30:01Z",
       "puzzleUrl": "https://sudokupad.app/ophfxheq32",
       "links": [
